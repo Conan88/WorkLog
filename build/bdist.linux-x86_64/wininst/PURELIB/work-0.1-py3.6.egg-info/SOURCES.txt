@@ -1,8 +1,0 @@
-setup.py
-work.py
-work.egg-info/PKG-INFO
-work.egg-info/SOURCES.txt
-work.egg-info/dependency_links.txt
-work.egg-info/entry_points.txt
-work.egg-info/requires.txt
-work.egg-info/top_level.txt
