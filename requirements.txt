@@ -1,0 +1,6 @@
+click==6.7
+DateTime==4.2
+pytz==2017.3
+six==1.11.0
+work==0.1
+zope.interface==4.4.3
